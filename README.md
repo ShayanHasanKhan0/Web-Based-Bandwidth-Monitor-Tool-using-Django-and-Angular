@@ -8,7 +8,7 @@ run these commands
 + ng serve
 
 # For Django
-+ pip install Django
++ pip install django
 + pip install django-cors-headers
 + pip install snmp
 + pip install netifaces
