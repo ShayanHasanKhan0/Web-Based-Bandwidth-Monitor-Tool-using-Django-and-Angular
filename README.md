@@ -13,3 +13,6 @@ run these commands
 + python3 pip install netifaces
 + python3 pip install speedtest-cli
 + python3 manage.py runserver
+
+
+*kindly note that the ip address, subnet mask and gateway might not work on windows.
